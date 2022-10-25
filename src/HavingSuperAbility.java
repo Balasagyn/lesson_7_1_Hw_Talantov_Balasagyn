@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface HavingSuperAbility {
+public interface HavingSuperAbility {
+
+    void applySuperAbility();
+
 }
